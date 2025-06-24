@@ -1,4 +1,4 @@
-- **Create set**
+- **Set string**
 
     `SET hello world`
 
@@ -6,7 +6,7 @@
 
     `GET hello`
 
-- **Multiset**
+- **Set strings**
 
     `MSET a 1 b 2 c 3`
 
